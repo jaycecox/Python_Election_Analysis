@@ -11,7 +11,7 @@ Analysis of election results using python
 
  Deliverable 1:
 
-* Total Votes in teh election are printed to the terminal.
+* Total Votes in the election are printed to the terminal.
 * Each candidate's total votes.
 * Each candidate's percentage of votes.
 * The winner of the election with the winning vote count and winning percentage of votes.
@@ -23,16 +23,25 @@ The results are to be provided in the terminal and as a text file, using the fol
 
 ![Expected Output](./Images\Deliverable_1.PNG)
 
-#Resources
-*Data Source: election_reslults.csv
+# Resources
+* Data Source: election_reslults.csv
 
-#Guidance: Using a bulleted list, address teh following elecion outcomes. use images or exmaples of python code as support where necessary 
+# Guidance: Using a bulleted list, address teh following elecion outcomes. use images or exmaples of python code as support where necessary 
 
-Deliverable 2:
-*Total Votes in the election 
-    -Total_Votes:
+# Deliverable 2:
+* Total Votes in the election 
+    - Total_Votes: 
+* List of Candidates who received votes
+* Each candidate's percentage of votes.
+    - Charles Casper Stockham: 23.0% (85,213)
+    - Diana DeGette: 73.8% (272,892)
+    - Raymon Anthony Doane: 3.1% (11,606)
 
-#Results as records in my election_analysis.txt file
-![my analysis]()
+# Results as records in my election_analysis.txt file
+![my analysis](./Images/election_analysis.png)
 
-#Election Audit Python Code Summary:
+# Election Audit Python Code Summary:
+The  python code can be used for any state wide election given the following:
+1.  A CSV file for each election
+2.  A unique election_analysis file to record the results of each election. 
+3.  The code does not include specific candidate or county names,, therefore is can be applied to any state wide election. 
