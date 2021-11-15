@@ -1,11 +1,10 @@
 # -*- coding: UTF-8 -*-
 """PyPoll Election Analysis."""
-
-#An audit of the most recent local election has been created at the request of the Colorado Board of Elections 
+ 
 
  #Deliverable 1:
 
-#* Total Votes in teh election are printed to the terminal.
+# Total Votes in the election are printed to the terminal.
 # Each candidate's total votes.
 # Each candidate's percentage of votes.
 # The winner of the election with the winning vote count and winning percentage of votes.
@@ -87,7 +86,7 @@ with open(file_to_load) as election_data:
 
         # 5: Add a vote to that county's vote count.
         county_votes[county_name] += 1 
-# i have iterated over all rows in the csv file (all votes)
+
 
 # Save the results to our text file.
 with open(file_to_save, "w") as txt_file:
