@@ -27,7 +27,7 @@
     - Winning Vote Count: 272,892
     - Winning Percentage: 73.8%
 
-![my analysis](./Images\election_analysis.PNG)
+![my analysis](./C:\Users\jayce\Desktop\Class Folder\Python Election Analysis\Python_Election_Analysis\Images\election_analysis.PNG)
 
 # Election Audit Summary:
 
