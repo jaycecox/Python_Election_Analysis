@@ -1,1 +1,38 @@
-# Python_Election_Analysis
+# PyPoll_Election_Analysis
+
+Analysis of election results using python 
+1. Election Results Printed to the Command Line
+2. Election Results Saved to a Text File
+3. Written Analysis of the Election Audit
+
+#Analysis of Election Audit:
+
+ An audit of the most recent local election has been created at the request of the Colorado Board of Elections 
+
+ Deliverable 1:
+
+* Total Votes in teh election are printed to the terminal.
+* Each candidate's total votes.
+* Each candidate's percentage of votes.
+* The winner of the election with the winning vote count and winning percentage of votes.
+* Each county and its total vote count. 
+* Each county and its percentage of total votes. 
+* The county with the largest number of voters. 
+
+The results are to be provided in the terminal and as a text file, using the following template): 
+
+![Expected Output](./Images\Deliverable_1.PNG)
+
+#Resources
+*Data Source: election_reslults.csv
+
+#Guidance: Using a bulleted list, address teh following elecion outcomes. use images or exmaples of python code as support where necessary 
+
+Deliverable 2:
+*Total Votes in the election 
+    -Total_Votes:
+
+#Results as records in my election_analysis.txt file
+![my analysis]()
+
+#Election Audit Python Code Summary:
